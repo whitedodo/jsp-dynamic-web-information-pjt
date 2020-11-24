@@ -1,0 +1,39 @@
+
+.admin_tbl{
+	width:700px;
+	margin:auto;
+	text-align:center;
+	font-family:'Nanum Gothic';
+    font-size:20px;
+}
+
+.input_txt{
+	font-family:'Nanum Gothic';
+    font-size:20px;
+    width:400px;
+    height:30px;
+}
+
+.btn_submit{
+	font-family:'Nanum Gothic';
+    font-size:20px;
+    width:400px;
+    height:30px;
+}
+
+.common_clock{
+	text-align:center;
+	margin:auto;
+	
+	font-family:'Nanum Gothic';
+	font-size:25px;
+	
+}
+
+.foot_tbl{
+	width:900px;
+	border-top:1px solid #e2e2e2;
+	margin:auto;
+	font-family:'Nanum Gothic';
+	text-align:center;
+}

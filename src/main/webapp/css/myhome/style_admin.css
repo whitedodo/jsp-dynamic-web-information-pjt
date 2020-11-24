@@ -1,0 +1,131 @@
+
+.notice_alert_dev_tbl{
+	width:800px;
+	border:1px solid #e2e2e2;
+	text-align:center;
+	font-family:'Nanum Gothic';
+	margin:auto;
+   	border-collapse: collapse;
+}
+.notice_alert_dev_tbl thead td{
+	border-right:1px solid #e2e2e2;
+	border-bottom:1px solid #e2e2e2;
+	text-align:center;
+	font-family:'Nanum Gothic';
+	font-weight:bold;
+	margin:auto;
+   	border-collapse: collapse;
+    height:40px;
+    background-color:#CEE8E5;
+}
+.notice_alert_dev_tbl tbody td{
+	border-right:1px solid #e2e2e2;
+	border-bottom:1px solid #e2e2e2;
+	text-align:center;
+	font-family:'Nanum Gothic';
+	margin:auto;
+   	border-collapse: collapse;
+    height:40px;
+}
+
+.board_write_dev_tbl{
+	
+	width:700px;
+	border:0px;
+	font-family:'Nanum Gothic';
+    font-size:20px;
+	text-align:center;
+	margin:auto;
+    border-collapse: collapse;
+	
+}
+
+.board_write_dev_tbl thead td{
+	border-top:1px solid #e2e2e2;
+	border-right:1px solid #e2e2e2;
+	border-bottom:1px solid #e2e2e2;
+	background-color:#CEE8E5;
+	font-family:'Nanum Gothic';
+    font-size:20px;
+    height:35px;
+}
+
+.board_write_dev_tbl tbody td{
+	border-right:1px solid #e2e2e2;
+	border-bottom:1px solid #e2e2e2;
+	font-family:'Nanum Gothic';
+    font-size:20px;
+    height:20px;
+}
+
+.board_alert_dev_tbl{
+	width:700px;
+	border:0px;
+	font-family:'Nanum Gothic';
+    font-size:20px;
+	text-align:center;
+	margin:auto;
+    border-collapse: collapse;
+}
+
+.board_alert_dev_tbl thead td{
+	border-top:1px solid #e2e2e2;
+	border-right:1px solid #e2e2e2;
+	border-bottom:1px solid #e2e2e2;
+	background-color:#CEE8E5;
+	font-family:'Nanum Gothic';
+    font-size:20px;
+    height:35px;
+}
+
+.board_alert_dev_tbl tbody td{
+	border-right:1px solid #e2e2e2;
+	border-bottom:1px solid #e2e2e2;
+	font-family:'Nanum Gothic';
+    font-size:20px;
+    height:20px;
+}
+
+.detail_search_reservation_tbl{
+	
+	width:700px;
+	border:0px;
+	font-family:'Nanum Gothic';
+    font-size:20px;
+	text-align:center;
+	margin:auto;
+    border-collapse: collapse;
+}
+
+.input_txt{
+	font-family:'Nanum Gothic';
+    font-size:20px;
+    height:20px;
+}
+
+.input_option{
+	font-family:'Nanum Gothic';
+    font-size:20px;
+    height:30px;
+}
+
+.input_memo{
+	font-family:'Nanum Gothic';
+    font-size:20px;
+    width:100%;
+    height:150px;
+}
+
+.input_button{
+	font-family:'Nanum Gothic';
+    font-size:20px;
+	width:100px;
+	height:70px;
+}
+
+.input_search_button{
+	font-family:'Nanum Gothic';
+    font-size:20px;
+	width:80px;
+	height:30px;
+}

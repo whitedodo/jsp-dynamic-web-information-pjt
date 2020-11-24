@@ -1,0 +1,220 @@
+
+.home_tbl{
+	width:900px;
+	margin:auto;
+	text-align:center;
+}
+
+.map_div{
+	width:900px;
+	border-top:1px solid #e2e2e2;
+	margin:auto;
+	text-align:center;
+}
+
+.btn_submit{
+    font-size:20px;
+}
+
+.common_tbl{
+	width:700px;
+	border-top:5px solid #e2e2e2;
+	border-bottom:5px solid #e2e2e2;
+	margin:auto;
+	text-align:center;
+    border-collapse: collapse;
+    font-size:20px;
+}
+
+.common_tbl .personal{
+	width: 20px;
+	height:20px;
+}
+
+.common_tbl .education{
+	width: 20px;
+	height:20px;
+}
+
+.common_foot_tbl{
+	width:700px;
+	margin:auto;
+	text-align:center;
+    border-collapse: collapse;
+    font-size:20px;
+}
+
+.common_res_tbl{
+	width:700px;
+	border-top:5px solid #e2e2e2;
+	border-bottom:5px solid #e2e2e2;
+	margin:auto;
+	text-align:center;
+    border-collapse: collapse;
+    font-size:20px;
+}
+
+.common_res_agree_tbl{
+	
+	width:700px;
+	border:0px;
+	text-align:center; 
+	margin:auto;
+	text-align:center;
+}
+
+.common_res_agree_iframe{
+	width:700px;
+	height:600px;
+	SCROLLING:YES;
+    border-collapse: collapse;
+	
+}
+
+.common_res_agree_type{
+	width:700px;
+	border:0px;
+	text-align:center;
+    border-collapse: collapse;
+}
+
+.basic_list{
+	width:700px;
+	margin:auto;
+	text-align:center;
+    font-size:20px;
+}
+
+.common_agree_guide{
+	width:700px;
+	border:0px;
+	height:80px;
+	text-align:center;
+    border-collapse: collapse;
+}
+
+.common_agree_ok{
+	width: 20px;
+	height:20px;
+}
+
+.common_agree_detail{
+	width:700px;
+	border:0px;
+	height:80px;
+	text-align:center;
+	margin:auto;
+    border-collapse: collapse;
+}
+
+.common_agree_font{
+	font-family:'Nanum Gothic';
+	font-size:20pt;
+	font-weight: bold;
+}
+
+.textbox{
+	font-size:40px;
+	width: 400px;
+	height:60px;
+}
+
+.btn_submit{
+    font-size:20px;
+	width: 170px;
+	height:40px;
+}
+
+.common_clock{
+	text-align:center;
+	margin:auto;
+	
+	font-family:'Nanum Gothic';
+	font-size:25px;
+	
+}
+
+.notice_alert_tbl{
+	width:700px;
+	border:0px;
+	height:80px;
+	font-family:'Nanum Gothic';
+    font-size:20px;
+	text-align:center;
+	margin:auto;
+    border-collapse: collapse;
+}
+
+.notice_alert_tbl thead td{
+	border-top:1px solid #e2e2e2;
+	border-right:1px solid #e2e2e2;
+	border-bottom:1px solid #e2e2e2;
+	background-color:#CEE8E5;
+}
+
+.notice_alert_tbl tbody td{
+	border-right:1px solid #e2e2e2;
+	border-bottom:1px solid #e2e2e2;
+	height:25px;
+	font-family:'Nanum Gothic';
+    font-size:15px;
+}
+
+.board_alert_tbl{
+	
+	width:700px;
+	border:0px;
+	font-family:'Nanum Gothic';
+    font-size:30px;
+	text-align:center;
+	margin:auto;
+    border-collapse: collapse;
+	
+}
+
+.board_alert_tbl thead td{
+	border-top:1px solid #e2e2e2;
+	border-right:1px solid #e2e2e2;
+	border-bottom:1px solid #e2e2e2;
+	background-color:#CEE8E5;
+	height:30px;
+	font-family:'Nanum Gothic';
+    font-size:20px;
+}
+
+.board_alert_tbl tbody td{
+	border-top:1px solid #e2e2e2;
+	border-right:1px solid #e2e2e2;
+	border-bottom:1px solid #e2e2e2;
+	background-color:#FFF;
+	height:30px;
+	font-family:'Nanum Gothic';
+    font-size:15px;
+}
+
+.detail_search_notice_tbl{
+	
+	width:700px;
+	border:0px;
+	font-family:'Nanum Gothic';
+    font-size:20px;
+	text-align:center;
+	margin:auto;
+    border-collapse: collapse;
+}
+
+.foot_tbl{
+	width:900px;
+	border-top:1px solid #e2e2e2;
+	margin:auto;
+	font-family:'Nanum Gothic';
+	text-align:center;
+}
+
+.input_button{
+	font-family:'Nanum Gothic';
+    font-size:20px;
+	width:100px;
+	height:70px;
+}
+
