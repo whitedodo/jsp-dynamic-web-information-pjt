@@ -42,7 +42,10 @@
 #####    (We implemented a dynamic page that automatically changes the screen over time.)
 
 ### 2. 시연(Practice)
-
+##### 1. 201024 - JSP / Dynamic Web Project - 1, https://www.youtube.com/watch?v=vFzQsEK3OKw, Accessed by 2020-12-04, Last Modified 2020-10-24.
+##### 2. 201024 - JSP / Dynamic Web Project - 2, https://www.youtube.com/watch?v=ALxZiv57K_g, Accessed by 2020-12-04, Last Modified 2020-10-24.
+##### 3. 201024 - JSP / Dynamic Web Project - 3, https://www.youtube.com/watch?v=nWRVzecyY2o, Accessed by 2020-12-04, Last Modified 2020-10-24.
+##### 4. 201024 - JSP / Dynamic Web Project - 4, https://www.youtube.com/watch?v=M2ykElAo7y0, Accessed by 2020-12-04, Last Modified 2020-10-24.
 
 ### 3. 참고자료(References)
 ##### 1. 
